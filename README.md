@@ -1,2 +1,2 @@
 # Insulator-Detection-Gluoncv
- 
+采用Sagemake内置目标检测算法和开源算法Gluoncv分别进行了电力线路上绝缘子检测
